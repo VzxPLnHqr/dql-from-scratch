@@ -1,0 +1,7 @@
+//> using scala "3.4.2"
+//> using option "-source:future"
+//> using dep "org.typelevel::cats-effect:3.5.4"
+//> using dep "org.typelevel::cats-core:2.12.0"
+//> using dep "org.scodec::scodec-bits::1.2.0"
+//> using dep "org.typelevel::spire:0.18.0"
+//> using dep "com.github.mrdimosthenis::synapses:8.0.0"
